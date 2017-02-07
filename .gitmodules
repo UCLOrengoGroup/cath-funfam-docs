@@ -1,3 +1,9 @@
 [submodule "cath-gemma"]
 	path = cath-gemma
 	url = git@github.com:UCL/cath-gemma.git
+[submodule "cath-funfhmmer"]
+	path = cath-funfhmmer
+	url = https://github.com/UCL/cath-funfhmmer.git
+[submodule "cath-funsite"]
+	path = cath-funsite
+	url = https://github.com/UCL/cath-funsite.git
