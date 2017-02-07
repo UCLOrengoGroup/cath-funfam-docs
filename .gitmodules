@@ -1,0 +1,3 @@
+[submodule "cath-gemma"]
+	path = cath-gemma
+	url = git@github.com:UCL/cath-gemma.git
