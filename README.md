@@ -1,10 +1,17 @@
-# Functional Families (FunFam) in CATH-Gene3D
+# FunFams (Functional Families) in CATH-Gene3D
 
-A FunFam is a collection of protein structural domains that share a common function. FunFams can be used to predict the location of structural domains and provide clues about putative function in novel protein sequences. This site contains information, scripts and tutorials on how Functional Families (FunFams) can be used to annotate your own protein sequences.
+In a nutshell...
+
+ * A **FunFam** is a collection of protein structural domains that share a common function (read more)
+ * **FunFams** can be used to predict the location of structural domains and provide clues about putative function in novel protein sequences (read more)
+ * This site contains information, scripts and tutorials on how **FunFams** can be used to annotate your own protein sequences (see below)
 
 ## How do I scan my own protein sequences?
 
-There are few different options, depending on how many sequences you want to scan and how comfortable you are working in a technical environment (API programming).
+There are few different options depending on:
+
+ 1. how many sequences do you want to scan? (e.g. 1, 100, 100000+?)
+ 1. how comfortable you are working in a technical environment
 
 ### Manually scan individual sequences
 
