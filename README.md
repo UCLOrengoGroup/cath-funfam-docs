@@ -19,7 +19,9 @@ There are few different options. The most suitable method will depend on:
  * Expected time: < 1 minute
  * Technical requirements: none
 
-The most simple way of predicting the location of FunFams on your protein sequence is to use the CATH web pages. Simply copy and paste your protein sequence into the sequence search and follow the instructions.
+The most simple way of predicting the location of FunFams on your protein sequence is to use the CATH web pages. Simply copy and paste your protein sequence into the [sequence search](http://cathdb.info/search/by_sequence) and follow the instructions.
+
+http://cathdb.info/search/by_sequence
 
 ### Scan many sequences (e.g. 100s)
 
