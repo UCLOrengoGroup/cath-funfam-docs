@@ -33,11 +33,11 @@ The FunFHMMER server provides a public API that allows users to submit their own
 through their own scripts. Note, queries are submitted to a queueing system and are subject to fair
 use policy.
 
-API (click the 'API' tab):
+**API:** *(click the 'API' tab)*
 
 http://cathdb.info/search/by_sequence#api 
 
-Example client:
+**Example client:**
 
 https://github.com/UCLOrengoGroup/cath-tools-seqscan
 
